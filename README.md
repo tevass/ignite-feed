@@ -12,7 +12,7 @@ Ignite feed é um projeto que simula o feed das redes sociais
 
 ## ✨ Tecnologias
 
-- [ReactJS](https://reactjs.org)
+- [ReactJS](https://reactjs.dev](https://react.dev/)
 - [Phosphor Icons](https://phosphoricons.com/)
 
 ## 🚀 Como executar
